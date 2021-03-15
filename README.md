@@ -9,10 +9,10 @@ We use it here to generate person detection on AVA and Kinetics dataset.
 For that purpose, we modified `test.py`.
 
 
-![Ground Truth](test_batch0_gt.png)
+![Ground Truth](./test_batch0_gt.jpg)
 
 Ground Truth
 
-![Detections](test_batch0_pred.png)
+![Detections](./test_batch0_pred.jpg)
 
 Detections
